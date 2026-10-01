@@ -1,0 +1,12 @@
+{
+  "/images": { "target": "http://localhost:8000" },
+  "/matrices": { "target": "http://localhost:8000" },
+  "/control-samples": { "target": "http://localhost:8000" },
+  "/jobs": { "target": "http://localhost:8000" },
+  "/viewer": { "target": "http://localhost:8000" },
+  "/results": { "target": "http://localhost:8000" },
+  "/users": { "target": "http://localhost:8000" },
+  "/audit": { "target": "http://localhost:8000" },
+  "/me": { "target": "http://localhost:8000" },
+  "/health": { "target": "http://localhost:8000" }
+}

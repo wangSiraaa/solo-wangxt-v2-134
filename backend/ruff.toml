@@ -1,0 +1,4 @@
+[lint]
+# B008: FastAPI Depends()/Header() in argument defaults is the framework pattern
+# BLE001: tile-stage boundary deliberately catches Exception (never kills job)
+ignore = ["B008", "BLE001", "E501"]
